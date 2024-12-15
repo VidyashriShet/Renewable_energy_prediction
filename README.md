@@ -1,2 +1,5 @@
-A machine learning model which predicts the amount of energy a renewable energy station produces. 
-This is an academic project.
+# Renewable Energy Generation Prediction System
+
+A machine learning project which predicts the actual amount of
+energy generated in a renewable energy station built using Deep
+learning and TensorFlow
